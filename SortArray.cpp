@@ -1,3 +1,8 @@
+// This programs sorts array upto length defined in 'arrayLength' variable maximum upto 10 as defined in 'myArr' array
+// Concept used: integer array, multidimensional string array, nested for-loop, function, pointer, basic of swapping two numbers
+
+
+
 #include <iostream>
 using namespace std;
 
